@@ -26,13 +26,5 @@ A interface web do CFObras foi construída utilizando **Vue.js** e serve como o 
 ## Público-Alvo
 O CFObras é voltado para construtoras, incorporadoras e empresas que desejam aprimorar a gestão de suas obras, garantindo maior controle sobre o andamento do projeto, a utilização de equipamentos e a alocação de recursos humanos.
 
-## Tecnologias Utilizadas
-- **API**: NestJS
-- **App Móvel**: React Native
-- **Frontend**: Vue.js
-- **Banco de Dados**: MongoDB
-- **Ferramentas de Integração**: Firebase para notificações push
-- **Outros**: Docker para a gestão de ambientes conteinerizados
-
 ## Conclusão
 O **CFObras** oferece uma solução robusta e integrada para o gerenciamento de obras, permitindo às empresas maior eficiência no uso de recursos, melhor acompanhamento de prazos e uma visão clara do estado atual de cada projeto. Ao utilizar uma abordagem modular com API, aplicativo móvel e uma interface web, o CFObras é uma ferramenta essencial para empresas que buscam modernizar e otimizar seus processos de construção.
